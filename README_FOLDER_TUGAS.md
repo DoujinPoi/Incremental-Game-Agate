@@ -1,5 +1,5 @@
 # Incremental-Game-Agate
-Studi Chapter 2
+Tugas Chapter 2. Folder "Incremental" = FILE PROJECT. Folder " Incremental Game Standalone " = FILE BUILD STANDALONE.
 # Link Github
 https://github.com/DoujinPoi/Pong
 
