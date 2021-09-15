@@ -1,2 +1,7 @@
 # Incremental-Game-Agate
-Studi Chapter 2
+ Studi Independen Chapter 2 Agate
+
+# FOLDER
+Folder Incremental adalah FILE PROJECT Incremental Game
+
+Folder Incremental Game Standalone adalah FILE BUILD STANDALONE
